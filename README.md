@@ -1,6 +1,6 @@
-# React Router 4 Example
+# React Router 5 Example
 
-This is a simple example of using react-router 4.x.  For complete documentation for 4.x visit [React Router](https://github.com/ReactTraining/react-router).  
+This is a simple example of using react-router 4.x.  For complete documentation for 4.x visit [React Router](https://github.com/ReactTraining/react-router).
 
 To see the specific additions of just React Router 4 on top of an existing React Example, look at this [commit](https://github.com/reyarqueza/react-router-4-example/commit/99551a3bdaa4ef2a1a42a4b2e427a8d23cc256ff).
 
