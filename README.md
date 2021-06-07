@@ -2,20 +2,20 @@
 
 This is a simple example of using react-router.  For complete documentation visit [React Router](https://github.com/ReactTraining/react-router).
 
-To see the specific additions of just React Router on top of an existing React Example, look at this [commit](https://github.com/reyarqueza/react-router-4-example/commit/99551a3bdaa4ef2a1a42a4b2e427a8d23cc256ff).
+To see the specific additions of just React Router on top of an existing React Example, look at this [commit](https://github.com/reyarqueza/react-router-5-example/commit/99551a3bdaa4ef2a1a42a4b2e427a8d23cc256ff).
 
 Follow the directions below to run this example locally:
 
 Git Clone this example:
 
 ```
-git clone https://github.com/reyarqueza/react-router-4-example
+git clone https://github.com/reyarqueza/react-router-5-example
 ```
 
 Change directories
 
 ```
-cd react-router-4-example
+cd react-router-5-example
 ```
 
 Install dependencies (takes about 1 minute)
